@@ -2,6 +2,7 @@
 Server code for care4old project
 
 Models: in this repository are located all models for SQL query
+
 Controller: in this repository are located all PHP controllers that will interact between the client and the database
 
 In the config.php are all the login access to localhost
